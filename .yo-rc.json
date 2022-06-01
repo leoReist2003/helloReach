@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0-rc.0",
+    "libraryName": "hello-reach",
+    "libraryId": "71db78f0-a727-419a-a98c-4144a0d89d3c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "hello-reach",
+    "solutionShortDescription": "hello-reach description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

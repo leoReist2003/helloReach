@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-reach-client-side-solution",
+    "id": "71db78f0-a727-419a-a98c-4144a0d89d3c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0-rc.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "hello-reach description"
+      },
+      "longDescription": {
+        "default": "hello-reach description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "hello-reach Feature",
+        "description": "The feature that activates elements of the hello-reach solution.",
+        "id": "51ee781d-6295-459f-b7ed-354f45d86939",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-reach.sppkg"
+  }
+}
